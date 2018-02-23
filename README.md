@@ -7,3 +7,4 @@ feature
 >>>>>>> feature1
 dev add
 hello world
+another conflict
