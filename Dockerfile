@@ -1,2 +1,2 @@
 FROM hello-world
-CMD echo hello chanmufeng
+CMD echo "hello chanmufeng"
